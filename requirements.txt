@@ -1,0 +1,5 @@
+python-telegram-bot==22.0
+flask
+flask_sqlalchemy
+sqlalchemy
+psycopg2-binary
